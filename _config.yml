@@ -8,7 +8,7 @@ subtitle: 一个IT从业人员的工作笔记和生活感悟
 description: "感恩 & 回馈 | 理解 & 释怀 | 热爱 & 敬畏"
 author: Kenneth Fan
 language:
-timezone:
+timezone: "Asia/Chongqing"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

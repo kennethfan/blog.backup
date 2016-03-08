@@ -1,0 +1,12 @@
+  <div class="widget-wrap">
+    <h3 class="widget-title">友情链接</h3>
+    <div class="widget">
+      <ul>
+          <li>
+          <% for (var index in site.data.links) {  %>
+            <a href="<%= site.data.links[index].url %>"><%= site.data.links[index].label %></a>
+          <% } %>
+          </li>
+      </ul>
+    </div>
+  </div>
