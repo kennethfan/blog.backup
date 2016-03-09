@@ -27,6 +27,8 @@ vim
 vim quickstart
 ```
 
+<!-- more -->
+
 打开一个不存在的文件；效果如图：
 
 {% asset_img vim-quickstart-newfile.png 打开一个不存在文件 %}
