@@ -78,3 +78,5 @@ backup:
     repository:
        github: git@github.com:kennethfan/blog.backup.git,master
     message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
+# Comment
+duoshuo_shortname: kennethfan
