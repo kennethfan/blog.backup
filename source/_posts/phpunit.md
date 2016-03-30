@@ -1,7 +1,7 @@
 ---
 title: PHP单元测试PHPUnit
 date: 2016-03-30 10:29:40
-tags: [php,phpunit]
+tags: [PHP,PHPUnit]
 ---
 # 简介
 
