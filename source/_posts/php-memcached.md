@@ -1,7 +1,7 @@
 ---
-title: PHP安装memcache扩展
+title: PHP安装memcached扩展
 date: 2016-03-29 18:45:32
-tags: [PHP,memcache]
+tags: [PHP,memcached]
 ---
 
 # 安装GCC
