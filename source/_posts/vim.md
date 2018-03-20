@@ -2,6 +2,7 @@
 title: Vim系列之简介(一)
 date: 2016-03-07 20:09:46
 tags: vim
+toc: true
 ---
 # Vim简介
 

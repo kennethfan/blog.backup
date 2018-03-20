@@ -2,6 +2,7 @@
 title: Vim系列之插入(四)
 date: 2016-04-05 23:21:58
 tags: vim
+toc: true
 ---
 # 普通插入
 

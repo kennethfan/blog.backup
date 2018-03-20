@@ -2,6 +2,7 @@
 title: Vim系列之移动(三)
 date: 2016-03-29 19:48:35
 tags: vim
+toc: true
 ---
 # 约定
 

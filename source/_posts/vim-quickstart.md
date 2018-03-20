@@ -2,6 +2,7 @@
 title: Vim系列之初体验(二)
 date: 2016-03-08 19:46:02
 tags: vim
+toc: true
 ---
 ## Vim安装 ##
 
